@@ -1,4 +1,4 @@
-# MyAssignment
+# Customer Management Assignment
 
 Problem Statement: </br>
 Create two API’s which can perform the specified CRUD operations.The project structure should
